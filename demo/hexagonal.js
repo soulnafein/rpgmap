@@ -1,1 +1,1 @@
-rpgMapCreate('map');
+RpgMap.init('map');
